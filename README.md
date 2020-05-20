@@ -28,6 +28,3 @@ $ npm run start:prod
 
 - Author - [Noor Hamdoon](nurhamdon@gmail.com)
 
-## License
-
- [MIT licensed](LICENSE).
