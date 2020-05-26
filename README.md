@@ -26,5 +26,5 @@ $ npm run start:prod
 
 ## Contact info
 
-- Author - [Noor Hamdoon](nurhamdon@gmail.com)
+- Author - Noor Hamdoon(nurhamdon@gmail.com)
 
